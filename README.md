@@ -1,4 +1,4 @@
-# Zopa calculation system
+# Zopa calculation quote system
 This is a small script that allows prospective borrowers to
 obtain a quote from a pool of lenders for 36 month loans.
 The script strives to provide as low a rate to the borrower as is possible.
